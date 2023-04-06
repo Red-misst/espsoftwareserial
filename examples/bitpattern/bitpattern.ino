@@ -13,7 +13,7 @@
 #define D5 (18)
 #define D7 (23)
 #define D6 (19)
-#define RX (3)
+#define RX (3) 
 #define TX (1)
 #endif
 #endif
